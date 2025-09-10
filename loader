@@ -1,3 +1,6 @@
 if game.PlaceId==121888878126542 then
  loadstring(game:HttpGet("https://raw.githubusercontent.com/GassyIncredible68420/scripts/refs/heads/main/noanticheatgame.lua"))()
 end
+if game.PlaceId==87246229321677 then
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/GassyIncredible68420/scripts/refs/heads/main/lizardgame.lua"))()
+end
